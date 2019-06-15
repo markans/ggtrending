@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'ggtrending_db' );
 
 /** MySQL database username */
-define( 'DB_USER', 'username' );
+define( 'DB_USER', 'username.' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', '28f9KmqjRaN86jXe' );
