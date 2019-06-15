@@ -15,7 +15,7 @@
  *
  * @link https://codex.wordpress.org/Editing_wp-config.php
  *
- * @package WordPresss
+ * @package WordPress
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
@@ -26,7 +26,7 @@ define( 'DB_NAME', 'ggtrending_db' );
 define( 'DB_USER', 'username' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'Z7SvF171emgrXTdG' );
+define( 'DB_PASSWORD', '28f9KmqjRaN86jXe' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
